@@ -1,7 +1,7 @@
 # movie-correlation-project
 The objective of this project was to analyze a movie dataset to identify the variables that are correlated with movie revenue. By leveraging Python and Jupyter Notebook, I conducted exploratory data analysis to uncover insights into the factors influencing a movie's financial success.
 Dataset Description
-The dataset consisted of a CSV filed with 6820 movies in the dataset (220 movies per year, 1986-2016). The dataset comprised various attributes related to movies, including budget, production company, country of origin, director, genre, revenue, rating, release date, duration, IMDb user rating, number of user votes, main actor/actress, writer, and year of release.
+The dataset consisted of a CSV filed with 6820 movies in the dataset (220 movies per year, 1986-2016). The dataset comprised various attributes related to movies, including budget, production company, country of origin, director, genre, revenue, rating, release date, duration, IMDb user rating, number of user votes, main actor/actress, writer, and year of release. The dataset is gotten from kaggle at https://www.kaggle.com/datasets/danielgrijalvas/movies
 
 Methodology:
 1. Data Acquisition and Preprocessing: I began by obtaining the dataset and performing data preprocessing tasks such as handling missing values, data type conversions, and ensuring data consistency.  
